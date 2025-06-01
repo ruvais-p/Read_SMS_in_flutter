@@ -24,15 +24,6 @@ This Flutter project fetches and displays SMS messages on an Android device that
 * Minimum SDK version: `21`
 
 ---
-
-## 📱 Screenshots
-
-| Main Page                                                   | SMS List                                                  |
-| ----------------------------------------------------------- | --------------------------------------------------------- |
-| ![main](https://via.placeholder.com/200x400?text=Main+Page) | ![sms](https://via.placeholder.com/200x400?text=SMS+List) |
-
----
-
 ## 📂 Folder Structure
 
 ```
