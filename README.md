@@ -1,8 +1,6 @@
-Here is a complete `README.md` file for your Flutter app that reads SMS messages containing the keyword **SIBSMS** using a native Android method channel. This README also includes the permission steps required for both development and production.
-
 ---
 
-# 📩 SIBSMS Reader (Flutter + Native Android)
+# 📩 SMS Reader (Flutter + Native Android)
 
 This Flutter project fetches and displays SMS messages on an Android device that contain the keyword `SIBSMS`. It uses **platform channels** to access native Android functionality for reading SMS.
 
